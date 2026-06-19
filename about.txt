@@ -1,0 +1,22 @@
+tgju_crawler/
+│
+├── crawler/
+│   ├── __init__.py
+│   ├── client.py
+│   ├── parser.py
+│   └── crawler.py
+│
+├── storage/
+│   ├── __init__.py
+│   ├── base.py
+│   ├── csv_storage.py
+│   └── postgres_storage.py
+│
+├── utils/
+│   ├── cleaner.py
+│   ├──processor.py
+│   └── config.py
+│
+├── data/
+│
+└── main.py
