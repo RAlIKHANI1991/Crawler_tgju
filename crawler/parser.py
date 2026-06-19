@@ -2,19 +2,12 @@
 def build_params():
 
     params = {
-
         "lang": "fa",
-
         "order_dir": "asc",
-
         "search": "",
-
         "order_col": "",
-
         "from": "",
-
         "to": "",
-
         "convert_to_ad": "1"
     }
 
